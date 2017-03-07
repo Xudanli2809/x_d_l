@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-* [一个网站]（https://www.baidu.com).
+* [TED]（http://edu.youku.com/ted?spm=a2htc.20010183.m_89978.5~5!2~5~5~A).
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
